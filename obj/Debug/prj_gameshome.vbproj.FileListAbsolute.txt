@@ -1,0 +1,12 @@
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.vbproj.AssemblyReference.cache
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.frm_games.resources
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.Resources.resources
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.vbproj.GenerateResource.cache
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.vbproj.CoreCompileInputs.cache
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\bin\Debug\prj_gameshome.exe.config
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\bin\Debug\prj_gameshome.exe
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\bin\Debug\prj_gameshome.pdb
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\bin\Debug\prj_gameshome.xml
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.exe
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.xml
+E:\fatec24\semestre01\Sistemas Informacionais\dot.net\prj_gameshome\obj\Debug\prj_gameshome.pdb

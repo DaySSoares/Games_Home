@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|e:\\fatec24\\semestre01\\sistemas informacionais\\dot.net\\prj_gameshome\\frm_games.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|solutionrelative:frm_games.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|e:\\fatec24\\semestre01\\sistemas informacionais\\dot.net\\prj_gameshome\\frm_games.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|solutionrelative:frm_games.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|e:\\fatec24\\semestre01\\sistemas informacionais\\dot.net\\prj_gameshome\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E5CDD833-5946-4242-95CF-136C03428395}|prj_gameshome.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAIAwwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-04T22:23:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_games.vb",
+              "DocumentMoniker": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\frm_games.vb",
+              "RelativeDocumentMoniker": "frm_games.vb",
+              "ToolTip": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\frm_games.vb",
+              "RelativeToolTip": "frm_games.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-04T22:18:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_games.vb [Design]",
+              "DocumentMoniker": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\frm_games.vb",
+              "RelativeDocumentMoniker": "frm_games.vb",
+              "ToolTip": "E:\\fatec24\\semestre01\\Sistemas Informacionais\\dot.net\\prj_gameshome\\frm_games.vb [Design]",
+              "RelativeToolTip": "frm_games.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-03T21:46:01.727Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
